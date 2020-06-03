@@ -7,3 +7,5 @@ replacing divs with semantic HTML elements, adding alts to img tags for accessib
 and refactoring classes and CSS so it is not repeating itself.
 
 Please see index.html and style.css for my refactored code.
+
+### The site can be viewed here: https://derek-watson14.github.io/HoriseonCodeRefactor/
